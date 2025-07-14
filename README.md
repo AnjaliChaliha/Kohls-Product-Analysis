@@ -10,20 +10,20 @@
 
 ---
 
-## 📖 Overview
+##  Overview
 
 This **Power BI Dashboard** analyzes customer feedback and sentiment for **Welspun-manufactured home textile products** sold on **Kohl’s** e-commerce platform. This review analysis project focuses on the following product categories:
 
-- 🛁 Bath Rugs  
-- 🛏️ Bedsheets  
-- 🧺 Towels  
-- 🛌 Comforters  
+-  Bath Rugs  
+-  Bedsheets  
+-  Towels  
+-  Comforters  
 
 Using **Natural Language Processing (NLP)**, the dashboard classifies user reviews into positive/negative sentiments, identifies key opinion tokens, computes polarity scores, and visualizes trends over time.
 
 ---
 
-## 🖥️ Preview
+##  Preview
 
 ### 🔹 Dashboard Snapshot
 ![Dashboard Overview](https://github.com/AnjaliChaliha/Kohls-Product-Analysis/blob/1c9a4631515d8ef67ffe1d20cd4c1280b2681def/Dashboard.png)
@@ -37,7 +37,7 @@ Using **Natural Language Processing (NLP)**, the dashboard classifies user revie
 
 ---
 
-## 🗃️ Dataset
+##  Dataset
 
 - **Source**: Kohl’s product reviews for Welspun’s premium home textile products
 - **Stored and cleaned in**: Microsoft Excel, integrated into Power BI
@@ -52,29 +52,29 @@ Using **Natural Language Processing (NLP)**, the dashboard classifies user revie
 
 ---
 
-## ✨ Features
+##  Features
 
-- 📈 **Period-Based Sentiment Trends**  
+-  **Period-Based Sentiment Trends**  
   View how customer sentiment evolved over time by tracking comment volume and emotion.
 
-- 💬 **Tokenization & Polarity Score Extraction**  
+-  **Tokenization & Polarity Score Extraction**  
   NLP is used to break down review text into key tokens and score them based on sentiment polarity.
 
-- ☁️ **Word Cloud**  
+-  **Word Cloud**  
   Visualizes dominant words across customer reviews for intuitive understanding of recurring themes.
 
-- 📊 **Token Polarity Bubble Chart**  
+-  **Token Polarity Bubble Chart**  
   Tokens are sized and colored by sentiment intensity to quickly highlight influential terms.
 
-- 🍰 **Sentiment Ratio Pie Chart**  
+-  **Sentiment Ratio Pie Chart**  
   Provides a quick overview of sentiment split (e.g., 89% positive vs. 11% negative for Bath Rugs).
 
-- ⭐ **Product Rating Summary**  
+-  **Product Rating Summary**  
   Aggregates user ratings into an average star score visible alongside review sentiment context.
 
 ---
 
-## 🧠 Key Learnings
+##  Key Learnings
 
 This dashboard project enabled me to:
 
@@ -86,7 +86,7 @@ This dashboard project enabled me to:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **© 2021 [Anjali Chaliha]** 
 
